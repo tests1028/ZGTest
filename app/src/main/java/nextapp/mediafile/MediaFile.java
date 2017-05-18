@@ -31,10 +31,7 @@ import android.provider.MediaStore;
  * guaranteed to be future-proof. Then again, we did all think the java.io.File API was going to be future-proof for media card
  * access, so all bets are off.
  * 
- * If you're forced to use this class, it's because Google/AOSP made a very poor API decision in Android 4.4 KitKat.
- * Read more at https://plus.google.com/+TodLiebeck/posts/gjnmuaDM8sn
- *
- * Your application must declare the permission "android.permission.WRITE_EXTERNAL_STORAGE".
+  * Your application must declare the permission "android.permission.WRITE_EXTERNAL_STORAGE".
  */
 public class MediaFile {
 
