@@ -1,11 +1,11 @@
 /*
  * Copyright (C) 2014 NextApp, Inc.
- * 
+ *
  * Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License.
  * You may obtain a copy of the License at
- * 
+ *
  * http://www.apache.org/licenses/LICENSE-2.0
- * 
+ *
  * Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS"
  * BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language
  * governing permissions and limitations under the License.
@@ -26,11 +26,10 @@ import android.provider.MediaStore;
  * Wrapper for manipulating files via the Android Media Content Provider. As of Android 4.4 KitKat, applications can no longer write
  * to the "secondary storage" of a device. Write operations using the java.io.File API will thus fail. This class restores access to
  * those write operations by way of the Media Content Provider.
- * 
- * Note that this class relies on the internal operational characteristics of the media content provider API, and as such is not
+ *
  * guaranteed to be future-proof. Then again, we did all think the java.io.File API was going to be future-proof for media card
  * access, so all bets are off.
- * 
+ *
   * Your application must declare the permission "android.permission.WRITE_EXTERNAL_STORAGE".
  */
 public class MediaFile {
