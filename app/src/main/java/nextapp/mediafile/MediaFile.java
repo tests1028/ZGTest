@@ -23,10 +23,7 @@ import android.net.Uri;
 import android.provider.MediaStore;
 
 /**
- * Wrapper for manipulating files via the Android Media Content Provider. As of Android 4.4 KitKat, applications can no longer write
- * to the "secondary storage" of a device. Write operations using the java.io.File API will thus fail. This class restores access to
- * those write operations by way of the Media Content Provider.
- * 
+ 
  * Note that this class relies on the internal operational characteristics of the media content provider API, and as such is not
  * guaranteed to be future-proof. Then again, we did all think the java.io.File API was going to be future-proof for media card
  * access, so all bets are off.
