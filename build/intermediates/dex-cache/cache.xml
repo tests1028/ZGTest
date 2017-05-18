@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/ZionGlobal/JohnBritto/Projects/MediaWrite/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1c113558e570fee1bb0588c999fea0bcf2aa3b1c">
+        <dex dex="/ZionGlobal/JohnBritto/Projects/MediaWrite/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b4fa26d7bc002d1b57e00f3340e970564fc8f3b5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ZGT-Mac001/Documents/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/ZionGlobal/JohnBritto/Projects/MediaWrite/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-19.1.0_fa0b8cdb7d5ffa6b0c8a8ba00c5519428e73f58d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/ZionGlobal/JohnBritto/Projects/MediaWrite/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6fe77368c93f45fcd406a76186471ddd2015fe79">
+        <dex dex="/ZionGlobal/JohnBritto/Projects/MediaWrite/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_53240788824c295eb74cb0439ca96f18f25b6a00/classes.dex" />
+    </item>
+
+</items>

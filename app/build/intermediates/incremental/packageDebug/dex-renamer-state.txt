@@ -1,0 +1,7 @@
+#Mon Jan 23 12:52:34 IST 2017
+base.0=/ZionGlobal/JohnBritto/Projects/MediaWrite/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_53240788824c295eb74cb0439ca96f18f25b6a00
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/ZionGlobal/JohnBritto/Projects/MediaWrite/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b4fa26d7bc002d1b57e00f3340e970564fc8f3b5/classes.dex
+base.1=/ZionGlobal/JohnBritto/Projects/MediaWrite/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b4fa26d7bc002d1b57e00f3340e970564fc8f3b5
+file.0=/ZionGlobal/JohnBritto/Projects/MediaWrite/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_53240788824c295eb74cb0439ca96f18f25b6a00/classes.dex
