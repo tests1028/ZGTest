@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/ZionGlobal/ZGTest/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_launcher.png",
+        "source": "/ZionGlobal/ZGTest/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
         "merged": "/ZionGlobal/JohnBritto/Projects/MediaWrite/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_launcher.png",
         "source": "/ZionGlobal/JohnBritto/Projects/MediaWrite/app/src/main/res/drawable-xhdpi/ic_launcher.png"
     }
